@@ -35,7 +35,6 @@ h, imgWidth, c = img.shape
 fontpath = "GreatVibes-Regular.ttf"     
 font = ImageFont.truetype(fontpath, 92)
 
-
 # ft = cv2.freetype.createFreeType2()
 # ft.loadFontData(fontFileName='Ubuntu-R.ttf',
 #                 id=0)
