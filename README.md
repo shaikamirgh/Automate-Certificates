@@ -1,9 +1,8 @@
 # Automate-Certificates
 Python script to automates Batch Certificates
 
-[![GitHub forks](https://github.com/shaikamirgh/Automate-Certificates)](https://github.com/shaikamirgh/Automate-Certificates/network)
-[![GitHub stars](https://github.com/shaikamirgh/Automate-Certificates/network)](https://github.com/shaikamirgh/Automate-Certificates/network/stargazers)
-
+[![Stargazers repo roster for @shaikamirgh/Automate-Certificates](https://reporoster.com/stars/shaikamirgh/Automate-Certificates)](https://github.com/shaikamirgh/Automate-Certificates/stargazers)
+[![Forkers repo roster for @shaikamirgh/Automate-Certificates](https://reporoster.com/forks/shaikamirgh/Automate-Certificates)](https://github.com/shaikamirgh/Automate-Certificates/network/members)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikamirgh&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikamirgh&langs_count=3&theme=tokyonight)]()
