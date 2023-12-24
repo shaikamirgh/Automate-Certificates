@@ -4,6 +4,10 @@ Python script to automates Batch Certificates
 [![Stargazers](https://reporoster.com/stars/shaikamirgh/Automate-Certificates)](https://github.com/shaikamirgh/Automate-Certificates/stargazers)
 [![Forkers](https://reporoster.com/forks/shaikamirgh/Automate-Certificates)](https://github.com/shaikamirgh/Automate-Certificates/network/members)
 
+[![Views](https://komarev.com/ghpvc/?username=shaikamirgh&label=Views&color=blue&style=plastic)](https://github.com/shaikamirgh/Automate-Certificates)
+[![Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=Clones&query=value&url=https://api.github.com/repos/shaikamirgh/Automate-Certificates/traffic/clones)](https://github.com/shaikamirgh/Question-Papers-AI/graphs/traffic)
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaikamirgh&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikamirgh&langs_count=3&theme=tokyonight)]()
 
